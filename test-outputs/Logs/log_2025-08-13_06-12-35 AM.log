@@ -1,0 +1,8 @@
+[INFO] 13-08-2025 06:12:36 [main] [Tests.TC05_OverviewTest.setup(TC05_OverviewTest.java:35)] - edge driver is opened
+[INFO] 13-08-2025 06:12:45 [main] [Tests.TC05_OverviewTest.setup(TC05_OverviewTest.java:37)] - LoginPage is opened
+[INFO] 13-08-2025 06:12:45 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:11)] - Test Case checkoutStepTwoTC started
+[INFO] 13-08-2025 06:12:46 [main] [Pages.P02_LandingPage.addAllProductsToCart(P02_LandingPage.java:35)] - number of all products = 6
+[INFO] 13-08-2025 06:12:49 [main] [Tests.TC05_OverviewTest.checkoutStepTwoTC(TC05_OverviewTest.java:52)] - Ftest-2025-08-13-6-12-26AM Ltest-2025-08-13-6-12-26AM 72689
+[INFO] 13-08-2025 06:12:49 [main] [Pages.P05_OverviewPage.calculateTotalPrice(P05_OverviewPage.java:35)] - Calculated Total Pricce = 140.34
+[INFO] 13-08-2025 06:12:49 [main] [Pages.P05_OverviewPage.getTotalPrice(P05_OverviewPage.java:30)] - Actual Total Pricce =  140.34
+[INFO] 13-08-2025 06:12:49 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:16)] - Test Case checkoutStepTwoTC passed
